@@ -1,0 +1,20 @@
+{
+  "title": "Lab 00 - Hello World",
+  "cases": [
+    {
+      "type": "header",
+      "name": "Header is filled in"
+    },
+    {
+      "type": "output",
+      "name": "Prints Hello World!",
+      "stdin": "",
+      "expect": "Hello World!"
+    },
+    {
+      "type": "comments",
+      "name": "Wrote a comment about learning Python",
+      "min": 1
+    }
+  ]
+}
